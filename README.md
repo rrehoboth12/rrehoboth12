@@ -17,6 +17,8 @@
 - Git & GitHub
 - Figma
 - Unity
+- FullStack
+- Mern
 
 ## Current Focus
 
