@@ -60,5 +60,3 @@
 
 - LinkedIn: https://www.linkedin.com/in/rehoboth-r-a409a0412/
 - LinkedIn: https://www.linkedin.com/in/rehoboth-r-20ba56301/
-- Discord: https://discord.com/1510572017387044985
-- Discord: https://discord.com/1425056773471076415
