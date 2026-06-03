@@ -17,8 +17,11 @@
 - Git & GitHub
 - Figma
 - Unity
-- FullStack
-- Mern
+- Html
+- CSS
+- JavaScript
+- MongoDB
+- ComputerVision
 
 ## Current Focus
 
