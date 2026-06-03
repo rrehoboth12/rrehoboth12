@@ -60,3 +60,5 @@
 
 - LinkedIn: https://www.linkedin.com/in/rehoboth-r-a409a0412/
 - LinkedIn: https://www.linkedin.com/in/rehoboth-r-20ba56301/
+- Discord: rehoboth12
+- Discord: reh0b0th
